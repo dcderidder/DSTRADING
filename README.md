@@ -1,2 +1,1 @@
-# DSTRADING
-Algorithmic Energy trading project
+Sports betting Algorithm
